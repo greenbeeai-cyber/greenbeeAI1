@@ -1,42 +1,42 @@
-# 🌌 [본인 이름]
+# 🌌 greenbeeAI1
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+```⚙️ SYSTEM: DEVELOPER_PROFILE_INITIALIZED ```
 
-<p align="center">
-  <img src="https://herokuapp.com[greenbeeai]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
+
+## 🧑‍💻 Student Developer
+- 🏫 **Identity** : High School Student (고등학교 재학 중)
+- 🎯 **Interest** : Computer Science / 3D Game Engine / AI
+- 📜 **Motto**    : "Code is poetry. Write it beautifully."
 
 ---
 
-### ⚡ Overview
+## 🛠️ Tech Stack & Skills
+
+### 🟦 Core Languages
+- **Python** ─── ■■■■■■■■■■□□□□□ `[Advanced / 3D Voxel Game & Scripting]`
+- **C++**    ─── ■■■■■■□□□□□□□□□ `[Intermediate / Algorithm & Problem Solving]`
+
+### 🟩 Tools & Environment
+- **Git & GitHub** ── `[Version Control & Open Source Hub Collaboration]`
+- **VS Code**     ── `[Main Integrated Development Environment]`
+
+---
+
+## 📊 Matrix & Status
 ```yaml
-identity: HighSchool Student
-interest: [Computer Science, 3D Game Engine, AI]
-motto: "Code is poetry. Write it beautifully."
+[STATUS]
+- Commit Activity : Active / Monitoring...
+- Engine Tech     : ursina (3D Rendering / Block Physics)
+
+[CURRENT_PROJECTS]
+- 🎮 Mini_Minecraft_3D : Developing voxel-based game using python
+- 🤖 AI_Algorithm_Lab  : Exploring data structures & computational solutions
 ```
 
 ---
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
----
-
-### 📊 Matrix
-<p align="center">
-  <img src="https://vercel.app[greenbeeai]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150px"/>
-  <img src="https://vercel.app[greenbeeai]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://neon.tech[greenbeeai]&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
+## 📬 Contact & Links
+- 💬 **GitHub** : [://github.com](https://://github.com)
+- 📝 *Continuous integration, continuous deployment.*
+```
